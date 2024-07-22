@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/omarnate1/four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://omarnate1.github.io/four-card-feature-section-master/)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-design-using-tailwind-css-x2E7-6IpAt)
+- Live Site URL: (https://omarnate1.github.io/four-card-feature-section-master/)
 
 ## My process
 
